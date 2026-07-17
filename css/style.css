@@ -93,18 +93,31 @@ header.site {
 }
 header.site h1 { font-size: 1rem; margin: 0; font-weight: 700; letter-spacing: 0.01em; }
 header.site .meta { color: var(--text-dim); font-size: 0.78rem; }
-nav.tabs { display: flex; gap: 0.35rem; margin-left: auto; }
+nav.tabs {
+  display: flex;
+  gap: 0;
+  margin-left: auto;
+  padding: 3px;
+  background: var(--surface-2);
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+}
 nav.tabs a {
   text-decoration: none;
-  padding: 0.34rem 0.95rem;
-  border: 1px solid transparent;
+  padding: 0.4rem 1.25rem;
   font-size: 0.85rem;
-  border-radius: var(--radius);
+  font-weight: 600;
+  border-radius: 999px;
   color: var(--text-dim);
-  transition: background 0.12s, color 0.12s;
+  transition: background 0.15s, color 0.15s, box-shadow 0.15s;
 }
-nav.tabs a:hover { background: var(--surface-2); color: var(--text); }
-nav.tabs a.active { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+nav.tabs a:hover { color: var(--text); }
+nav.tabs a.active {
+  background: var(--accent);
+  color: #fff;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.25);
+}
 .theme-btn {
   border: 1px solid var(--border);
   background: var(--surface);
