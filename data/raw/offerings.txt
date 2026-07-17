@@ -1,0 +1,711 @@
+
+===== PAGE 1 =====
+Course offerings in 2026-27 Semester I (Monsoon) - V5 (17th July)
+UG Programmes
+CD - Course Discription -Programme Requirement; Institute Requirement
+AD - Area Code - MA-Maths; CS-Comp Sci; EC-Electronics, CG-Cognitive Science;
+HS-Human Sci; SC-Science; OE-Open Elective; CL-Compu. Linguistics; OT-Others
+L-T-P-C: (Lecture hours - Tutorial hours - Practical Hours) per week - Credits
+H1-1st Half of the Semester; H2-2nd Half of the Semester; H-1 Class per week with full Semester
+Course Credits
+CD AD Course Name Faculty Name(s)
+No (L-T-P-C)
+B.Tech I year I Semester - CSE&CSD
+Pr MA MA5.101 Discrete Structures 3-1-0-4 Praveen P + Suryajith Ch
+Abhishek Deshpande + Vineet Gandhi
+Pr CS CS0.101 Computer Programming 3-1-3-5
++ Charu Sharma
+Anshu Sarje + Priyesh Shukla + Anil
+Pr EC EC2.101 Digital Systems and Microcontrollers 3-1-3-5 Kumar V + Madhava Krishna + Sourav
+Garg
+Indranil Chakrabarthy + Uttam Singh +
+Pr MA MA4.101 Real Analysis 3-1-0-4
+Lalitha V
+In HS OC2.101 Arts-1 (H1) 2-0-0-2 Saroja T K (Coordinator)
+Indranil Chakrabarty + Saurabh
+In HS OC3.101 Value Education-1 (H) 0-2-0-2
+Todariya (Coordinators)
+In HS OC1.101 Sports-1 0-2-0-1 Physical Education Centre
+Total 14-8-6-23
+B.Tech I year I Semester - ECE&ECD
+Pr MA EC5.101 Networks, Signals and Systems 3-1-0-4 Prasad Krishnan + Aftab Hussain
+Abhishek Deshpande + Vineet Gandhi +
+Pr CS CS0.101 Computer Programming 3-1-3-5
+Charu Sharma
+Anshu Sarje + Priyesh Shukla + Anil
+Pr EC EC2.101 Digital Systems and Microcontrollers 3-1-3-5 Kumar V + Madhava Krishna + Sourav
+Garg
+Indranil Chakrabarthy + Uttam Singh +
+Pr MA MA4.101 Real Analysis 3-1-0-4
+Lalitha V
+Pr CS EC2.102 Electronic Workshop-1 (H2) 2-0-3-2 Praful Mankar + Saikiran B
+In HS OC2.101 Arts-1 (H1) 2-0-0-2 Saroja T K (Coordinator)
+Indranil Chakrabarty + Saurabh
+In HS OC3.101 Value Education-1 (H) 0-2-0-2
+Todariya (Coordinators)
+In HS OC1.101 Sports-1 0-2-0-1 Physical Education Centre
+Total 16-8-9-25
+B.Tech I year I Semester – CND
+Pr MA MA5.101 Discrete Structures 3-1-0-4 Praveen P + Suryajith Ch
+Abhishek Deshpande + Vineet Gandhi +
+Pr CS CS0.101 Computer Programming 3-1-3-5
+Charu Sharma
+1 of 13
+===== PAGE 2 =====
+Anshu Sarje + Priyesh Shukla + Anil
+Pr EC EC2.101 Digital Systems and Microcontrollers 3-1-3-5 Kumar V + Madhava Krishna + Sourav
+Garg
+Indranil Chakrabarthy + Uttam Singh +
+Pr MA MA4.101 Real Analysis 3-1-0-4
+Lalitha V
+Pr SC SC4.101 Computing in Sciences-1(H2) 2-0-3-2 Marimuthu Krishnan
+In HS OC2.101 Arts-1 (H1) 2-0-0-2 Saroja T K (Coordinator)
+Indranil Chakrabarty + Saurabh
+In HS OC3.101 Value Education-1 (H) 0-2-0-2
+Todariya (Coordinators)
+In HS OC1.101 Sports-1 0-2-0-1 Physical Education Centre
+Total 16-8-9-25
+B.Tech I year I Semester – CLD
+Pr MA MA5.101 Discrete Structures 3-1-0-4 Praveen P + Suryajith Ch
+Abhishek Deshpande + Vineet Gandhi +
+Pr CS CS0.101 Computer Programming 3-1-3-5
+Charu Sharma
+Anshu Sarje + Priyesh Shukla + Anil
+Pr EC EC2.101 Digital Systems and Microcontrollers 3-1-3-5 Kumar V + Madhava Krishna + Sourav
+Garg
+Pr CS CL1.101 Introduction to Linguistics-1 3-1-0-4 Chiranjeevi Yarra + Radhika Mamidi
+In HS OC2.101 Arts-1 (H1) 2-0-0-2 Saroja T K (Coordinator)
+Indranil Chakrabarty + Saurabh
+In HS OC3.101 Value Education-1 (H) 0-2-0-2
+Todariya (Coordinators)
+In HS OC1.101 Sports-1 0-2-0-1 Physical Education Centre
+Total 14-8-6-23
+B.Tech I year I Semester – CHD
+Pr MA MA5.101 Discrete Structures 3-1-0-4 Praveen P + Suryajith Ch
+Abhishek Deshpande + Vineet Gandhi +
+Pr CS CS0.101 Computer Programming 3-1-3-5
+Charu Sharma
+Anshu Sarje + Priyesh Shukla + Anil
+Pr EC EC2.101 Digital Systems and Microcontrollers 3-1-3-5 Kumar V + Madhava Krishna + Sourav
+Garg
+Pr HS HS4.102 Making of the Contemporary India 3-1-0-4 Aniket Alam + Aakansha Natani
+Pr HS HS7.101 Human Sciences Lab-1 (H2) 3-1-0-2 Radhika Krishnan
+In HS OC2.101 Arts-1 (H1) 2-0-0-2 Saroja T K (Coordinator)
+Indranil Chakrabarty + Saurabh
+In HS OC3.101 Value Education-1 (H) 0-2-0-2
+Todariya (Coordinators)
+In HS OC1.101 Sports-1 0-2-0-1 Physical Education Centre
+Total 17-9-6-25
+B.Tech I year I Semester – CGD
+Pr MA MA5.101 Discrete Structures 3-1-0-4 Praveen P + Suryajith Ch
+Abhishek Deshpande + Vineet Gandhi +
+Pr CS CS0.101 Computer Programming 3-1-3-5
+Charu Sharma
+Anshu Sarje + Priyesh Shukla + Anil
+Pr EC EC2.101 Digital Systems and Microcontrollers 3-1-3-5 Kumar V + Madhava Krishna + Sourav
+Garg
+Pr GS GS0.101 Spatial Thinking and Practice 3-1-0-4 Shaik Rehana + K S Rajan
+In HS OC2.101 Arts-1 (H1) 2-0-0-2 Saroja T K (Coordinator)
+Indranil Chakrabarty + Saurabh
+In HS OC3.101 Value Education-1 (H) 0-2-0-2
+Todariya (Coordinators)
+2 of 13
+===== PAGE 3 =====
+In HS OC1.101 Sports-1 0-2-0-1 Physical Education Centre
+Total 14-8-6-23
+B.Tech II year I Semester - CSE/CSD
+Pr MA MA6.101 Probability and Statistics 3-1-0-4 Tejas Bodas
+Pr CS CS1.301 Algorithm Analysis and Design 3-1-0-4 Girish Varma
+Pr CS CS3.301 Operating Systems and Networks 3-1-0-4 Deepak Gangadharan
+Pr CS CS1.302 Automata Theory (H1) 3-1-0-2 Shantanav Chakraborty
+Pr CS CS4.301 Data and Applications (H2) 3-1-0-2 Kamal Karlapalam
+Deepak Gangadharan + Sachin
+Pr EC EC3.202 Embedded Systems Workshop (H) 1-0-3-3
+Chaudhari + Aftab Hussain
+Prabhakar Bhimalapuram + Samyadeb
+Pr SC SC1.110a Science 1 3-1-0-4
+Bhattacharya
+In HS OC1.103 Sports-3 0-2-0-1 Physical Education Centre
+Total 19-8-3-24
+LE-CSD-2K26 I year I Semester
+Pr MA MA6.101 Probability and Statistics 3-1-0-4 Tejas Bodas
+Pr CS CS1.301 Algorithm Analysis and Design 3-1-0-4 Girish Varma
+Pr CS CS3.301 Operating Systems and Networks 3-1-0-4 Deepak Gangadharan
+Pr CS CS1.302 Automata Theory (H1) 3-1-0-2 Shantanav Chakraborty
+Pr CS CS4.301 Data and Applications (H2) 3-1-0-2 Kamal Karlapalam
+In HS OC1.101 Sports-1 0-2-0-1 Physical Education Centre
+Total 15-7-0-17
+B.Tech II year I Semester - ECE/ECD
+Pr MA MA6.102 Probability and Random Processes 3-1-0-4 Praful Mankar
+Pr EC EC5.201 Signal Processing 3-1-3-5 Santosh Nannuru
+Pr EC EC5.202 Systems Thinking 3-1-0-4 Spandan Roy
+Pr EC EC2.201 VLSI Design 3-1-0-4 Abhishek Srivastava
+Prabhakar Bhimalapuram + Samyadeb
+Pr SC SC1.110b Science 1 3-1-0-4
+Bhattacharya
+In HS OC1.103 Sports-3 0-2-0-1 Physical Education Centre
+Total 15-7-3-22
+LE-ECD-2K26 I year I Semester
+Pr MA MA6.102 Probability and Random Processes 3-1-0-4 Praful Mankar
+Pr EC EC5.201 Signal Processing 3-1-3-5 Santosh Nannuru
+Pr EC EC5.202 Systems Thinking 3-1-0-4 Spandan Roy
+Pr EC EC2.201 VLSI Design 3-1-0-4 Abhishek Srivastava
+Pr OT Open Elective-1 3-1-0-4
+In HS OC1.101 Sports-1 0-2-0-1 Physical Education Centre
+Total 15-7-3-22
+B.Tech II year I Semester –CND
+Pr MA MA6.102 Probability and Random Processes 3-1-0-4 Praful Mankar
+Pr CS SC1.203 Quantum Mechanics 3-1-0-4 Harjinder Singh
+Pr CS SC3.101 Introduction to Biology 3-1-0-4 Vinod PK
+Pr CS SC4.110 Science Lab I (H1) 0-0-3-2 Chittaranjan Hens + Tapan Kumar Sau
+CN
+Pr CS1.301 Algorithm Analysis and Design 3-1-0-4 Girish Varma
+S
+Pr CS CS1.302 Automata Theory (H1) 3-1-0-2 Shantanav Chakraborty
+Pr CS CS4.301 Data and Applications (H2) 2-0-3-2 Kamal Karlapalam
+3 of 13
+===== PAGE 4 =====
+In HS OC1.103 Sports-3 0-2-0-1 Physical Education Centre
+Total 17-7-6-23
+B.Tech II year I Semester –CLD
+Pr MA MA6.101 Probability and Statistics 3-1-0-4 Tejas Bodas
+Pr CS CL2.203 Language and Society 3-1-0-4 Aditi Mukherjee
+Computational Linguistics II: Comp
+Pr CS CL3.202 3-1-0-4 Rajakrishnan P Rajkumar
+Semantics and Discourse parsing
+Pr CS CS1.301 Algorithm Analysis and Design 3-1-0-4 Girish Varma
+Pr CS CS1.302 Automata Theory (H1) 3-1-0-2 Shantanav Chakraborty
+Pr CS CS4.301 Data and Applications (H2) 3-1-0-2 Kamal Karlapalam
+In HS OC1.103 Sports-3 0-2-0-1 Physical Education Centre
+Total 15-7-0-21
+B.Tech II year I Semester –CHD
+Pr MA MA6.101 Probability and Statistics 3-1-0-4 Tejas Bodas
+Thinking and Knowing in the Human
+Pr HS HS0.216 3-1-0-4 Anirban Dasgupta + Khaliq Parkar
+Sciences - III
+Thinking and Knowing in the Human
+Pr HS HS0.202 3-1-0-4 Rajorshi Ray + Isha Dubey
+Sciences - II
+Pr CS CS1.301 Algorithm Analysis and Design 3-1-0-4 Girish Varma
+Pr CS CS4.301 Data and Applications (H2) 2-0-3-2 Kamal Karlapalam
+Pr CS CS1.302 Automata Theory (H1) 3-1-0-2 Shantanav Chakraborty
+In HS OC1.103 Sports-3 0-2-0-1 Physical Education Centre
+Total 17-7-3-21
+B.Tech II year I Semester –CGD
+Pr MA MA6.101 Probability and Statistics 3-1-0-4 Tejas Bodas
+Pr CS CS4.301 Data and Applications (H2) 2-0-3-2 Kamal Karlapalam
+Pr CS CS1.302 Automata Theory (H1) 3-1-0-2 Shantanav Chakraborty
+Pr CS CS1.301 Algorithm Analysis and Design 3-1-0-4 Girish Varma
+Pr CS CS3.301 Operating Systems and Networks 3-1-0-4 Deepak Gangadharan
+Pr GS GS2.401 Spatial Informatics 3-1-0-4 RC Prasad + Kuldeep Kurte
+Deepak Gangadharan + Sachin
+Pr EC EC3.202 Embedded Systems Workshop (H) 1-0-3-3
+Chaudhari + Aftab Hussain
+In HS OC1.103 Sports-3 0-2-0-1 Physical Education Centre
+Total 18-7-6-24
+B.Tech III year I Semester – CSE
+Pr CS Bouquet Course – 1 3-1-0-4
+OT SC Science Elective – 1 3-1-0-4
+OT HS HSS Elective-1 3-1-0-4
+OT OE Open Elective-1 3-1-0-4
+Pr CS CSE-Honours-1 (Optional) 0-2-6-2
+Total 12-6-6-16/18
+B.Tech III year I Semester - CSD
+Pr CS Bouquet Course – 1 3-1-0-4
+OT SC Science Elective – 1 3-1-0-4
+OT HS HSS Elective-1 3-1-0-4
+OT OE Open Elective-1 3-1-0-4
+PR CS Stream Elective-1 3-1-0-4
+Pr CS CSE-Honours-1 0-2-6-2
+Total 15-7-6-22
+LE-CSD-2K25 II year I Semester
+4 of 13
+===== PAGE 5 =====
+Pr CS Bouquet Course – 1 3-1-0-4
+OT SC Science Elective – 1 3-1-0-4
+OT HS HSS Elective-1 3-1-0-4
+OT OE Open Elective-2 3-1-0-4
+PR CS Stream Elective-1 3-1-0-4
+Pr CS CS9.302 CSE-Honours-1 0-2-6-2
+Total 15-7-6-22
+B.Tech III year I Semester – ECE
+Pr EC Stream Foundation-2 3-1-0-4
+Pr EC Stream Elective-1 3-1-0-4
+OT OE Open Elective-1 3-1-0-4
+OT HS HSS Elective-1 3-1-0-4
+Pr MA Maths Elective 3-1-0-4
+Pr EC ECE-Honours-1 (Optional) 0-2-6-2
+Total 15-7-6-20/22
+B.Tech III year I Semester – ECD and LED-2K25 II year I Semester
+Pr EC Stream Foundation-2 3-1-0-4
+Pr EC Stream Elective-1 3-1-0-4
+OT OE Open Elective-1 3-1-0-4
+Pr MA Maths Elective 3-1-0-4
+OT HS HSS Elective-1 3-1-0-4
+Pr EC ECE-Honours-1 0-2-6-2
+Total 15-7-6-22
+B.Tech III year I Semester – CND
+Pr CS CS3.301 Operating Systems and Networks 3-1-0-4 Deepak Gangadharan
+Pr SC SC2.304 Spectroscopy(H1) 3-1-0-2 Harjinder Singh
+Chemical Kinetics and Reaction
+Pr SC SC2.305 3-1-0-2 Tapan Kumar Sau
+Dynamics (H2)
+Pr SC SC3.202 Bioinformatics (H1) 3-1-0-2 Nita Parekh
+Pr CS CS Elective - 1 3-1-0-4
+Pr SC SC9.302 CNS Honors - 1 0-2-6-2
+Pr SC SC9.600 CCNSB seminar - 1 0 Cr Abhishek Deshpande
+Total 12-6-6-16
+B.Tech III year I Semester – CLD
+Pr CS CS3.301 Operating Systems and Networks 3-1-0-4 Deepak Gangadharan
+Pr CL CS7.501 Advanced NLP 3-1-0-4 Manish Shrivastava
+Pr CL CL9.302 CL-Honours-1 0-2-6-2
+Prabhakar Bhimalapuram + Samyadeb
+Pr SC SC1.110b Science 1 3-1-0-4
+Bhattacharya
+Pr CS CS Elective-1 3-1-0-4
+OT HS HSS Elective - 1 3-1-0-4
+Total 15-7-6-22
+B.Tech III year I Semester – CHD
+Pr CS CS3.301 Operating Systems and Networks 3-1-0-4 Deepak Gangadharan
+Pr HS HS0.301 Classical Text Readings 3-1-0-4 Ashwin Jayanti
+Prabhakar Bhimalapuram + Samyadeb
+Pr SC SC1.110b Science 1 3-1-0-4
+Bhattacharya
+Pr CS CS Elective-1 3-1-0-4
+OT HS HSS Elective-2 3-1-0-4
+5 of 13
+===== PAGE 6 =====
+Pr HS HS9.302 HS-Honours-1 0-2-6-2
+Total 15-7-6-22
+B.Tech III year I Semester – CGD
+Pr CS CS7.404 Digital Image Processing 3-1-0-4 Raghavendra GS
+Indranil Chakrabarthy + Uttam Singh +
+Pr MA MA4.101 Real Analysis 3-1-0-4
+Lalitha V
+Pr GS GS2.402 Cyber GIS: Geospatial Web and GeoBI 3-1-0-4 Kuldeep Kurte + K S Rajan
+Prabhakar Bhimalapuram + Samyadeb
+Pr SC SC1.110 Science 1 3-1-0-4
+Bhattacharya
+GS Stream Elective 1 3-1-0-4
+Pr GS GS9.302 Honours Project-1 0-2-6-2
+Total 15-7-6-22
+B.Tech IV year I Semester - CSE
+CS9.401/
+Pr CS BTP II / CSE-Honours Project III 0-2-6-2
+CS9.402
+HS0.203a
+Pr HS Basics of Ethics (H1&H2) 3-1-0-2 Ashwin Jayanti + Saurabh Todariya
+&HS0.203b
+Pr CS Bouquet Core-4 3-1-0-4
+Pr OE Open Elective-3 3-1-0-4
+Pr OE Open Elective-4 3-1-0-4
+Total 12-6-6-16
+B.Tech IV year I Semester - CSD
+Pr CS CS9.402 CSE-Honours Project III 0-2-6-2
+HS0.203a
+Pr HS Basics of Ethics (H1&H2) 3-1-0-2 Ashwin Jayanti + Saurabh Todariya
+&HS0.203b
+Pr CS Stream Elective-3 3-1-0-4
+Pr CS Bouquet Core-4 3-1-0-4
+Pr OE Open Elective-3 3-1-0-4
+Pr OE Open Elective-4 3-1-0-4
+Total 15-7-6-20
+LE-CSD-2K24 III year I Semester
+Pr CS CS9.402 CSE-Honours Project III 0-2-6-2
+HS0.203a
+Pr HS Basics of Ethics (H1&H2) 3-1-0-2 Ashwin Jayanti + Saurabh Todariya
+&HS0.203b
+Pr CS Stream Elective-3 3-1-0-4
+Pr CS Bouquet Core-4 3-1-0-4
+Pr OE Open Elective-4 3-1-0-4
+Pr OE Open Elective-5 3-1-0-4
+Total 15-5-6-20
+B.Tech IV year I Semester - ECE
+EC9.401/
+Pr EC BTP II/ECE-Honours Project III 0-2-6-2
+EC9.402
+HS0.203a
+Pr HS Basics of Ethics (H1&H2) 3-1-0-2 Ashwin Jayanti + Saurabh Todariya
+&HS0.203b
+Pr EC Stream Elective-3 3-1-0-4
+Pr OE Open Elective-3 3-1-0-4
+OT SC Science Elective-1 3-1-0-4
+Total 12-4-6-16
+B.Tech IV year I Semester – ECD and LED-2K24 III year I semester
+Pr EC EC9.402 ECE-Honours Project III 0-2-6-2
+Pr EC Stream Elective-4 3-1-0-4
+Pr EC Stream Elective-5 3-1-0-4
+6 of 13
+===== PAGE 7 =====
+Pr OE Open Elective-3 3-1-0-4
+OT SC Science Elective-1 3-1-0-4
+HS0.203a
+In HS Basics of Ethics (H1&H2) 3-1-0-2 Ashwin Jayanti + Saurabh Todariya
+&HS0.203b
+Total 15-7-6-20
+B.Tech IV year I Semester – CND
+Pr SC SC9.402 CNS-Honours Project III 0-2-6-2
+Pr SC CNS Elective-3 3-1-0-4
+Pr CS CS Elective-3 3-1-0-4
+Pr CS CS Elective-4 3-1-0-4
+HS0.203a
+In HS Basics of Ethics (H1&H2) 3-1-0-2 Ashwin Jayanti + Saurabh Todariya
+&HS0.203b
+Pr SC SC9.600 CCNSB Seminar-3 0 Cr Abhishek Deshpande
+Total 12-6-6-16
+B.Tech IV year I Semester – CLD
+Pr CL CL9.402 CL-Honours Project III 0-2-6-2
+Pr CL CL Stream Elective-2 3-1-0-4
+Pr CL CL Stream Elective-3 3-1-0-4
+Pr CS CS Elective-3 3-1-0-4
+HS0.203a
+Pr HS Basics of Ethics (H1&H2) 3-1-0-2 Ashwin Jayanti + Saurabh Todariya
+&HS0.203b
+Pr OE Open Elective-2 3-1-0-4
+Total 15-7-6-20
+B.Tech IV year I Semester – CHD
+Pr HS HS9.402 HS-Honours Project-3 0-2-6-2
+OT HS HSS Elective-4 3-1-0-4
+OT HS HSS Elective-5 3-1-0-4
+HS0.203a
+In HS Basics of Ethics (H1&H2) 3-1-0-2 Ashwin Jayanti + Saurabh Todariya
+&HS0.203b
+Pr CS CS Elective-4 3-1-0-4
+Pr OE Open Elective-3 3-1-0-4
+Total 15-7-6-20
+B.Tech V year I Semester – CSD (LE-CSD-2K23-IV year I Semester)
+Pr CS CS9.605 Thesis 12 Cr
+In OT OC9.600 Institute Seminar 1 Cr
+Total 13 credits
+B.Tech V year I Semester – ECD (LE-ECD-2K23-IV year I Semester)
+Pr EC EC9.605 Thesis 12 Cr
+In OT OC9.600 Institute Seminar 1 Cr
+Total 13 credits
+B.Tech V year I Semester – CLD
+Pr CL CL9.605 Thesis 12 Cr
+In OT OC9.600 Institute Seminar 1 Cr
+Total 13 credits
+B.Tech V year I Semester – CND
+Pr SC SC9.605 Thesis 12 Cr
+OT OT Open Elective 1 3-1-0-4
+Pr SC SC9.600 CCNSB seminar - 5 0 Cr
+Total 3-1-0-16
+B.Tech V year I Semester – CHD
+Pr HS HS9.605 Thesis 12 Cr
+In OT OC9.600 Institute Seminar 1 Cr
+7 of 13
+===== PAGE 8 =====
+Total 13 credits
+PG Programmes
+Course
+CD AD Course Name Credits Faculty Name(s)
+Code
+M.Tech I year I Semester - CSE & CSIS
+Data Structures & Algorithms for
+Pr CS CS1.304 3-0-2-6 Lini Thomas + Kshitij Gajjar
+Problem Solving
+Maths for Computer Science 1-
+Pr MA MA6.301 3-1-0-2 Naresh Manvani
+Probability and Statistics (H1)
+Maths for Computer Science 2 - Linear
+Pr MA MA6.302 3-1-0-2 Pawan Kumar
+Algebra (H2)
+Pr CS CS6.302 Software Systems Development 3-0-2-4 Abhishek Kr Singh
+Pr CS CS3.304 Advanced Operating Systems 3-1-0-4 Krishna Reddy P
+Total 12-1-5-18
+M.Tech II year I Semester – CSE
+Pr CS Bouquet Core 3-1-0-4
+Pr CS Bouquet Core 3-1-0-4
+Pr OT Area Elective 3-1-0-4
+Breadth Elective/Project/ Independent
+Pr CS 3-1-0-4
+Study
+Total 12-4-0-16
+* At most 4 credits can be converted to Project/Independent Study in lieu of course credits(66)
+M.Tech II year I Semester – CSIS
+Pr CS CS8.501 Research in Information Security 3-1-0-4 Srinathan Kannan + Ashok Kumar Das
+Pr CS CS3.402 Advanced Computer Networks 3-1-0-4 Ashok Kumar Das
+Pr CS Bouquet Elective 3-1-0-4
+Pr CS Area/CS/IT Elective 3-1-0-4
+Total 12-4-0-16
+M.Tech I Year I Semester – CASE
+Pr SE CE1.501 Structural Dynamics 3-1-0-4 Sunitha Palissery
+Pr CS CS0.301 Computer Problem Solving 3-1-3-4 Shatrunjay Rawat
+Pr SE CE4.501 Finite Element Method 3-1-0-4 Jofin George
+Pr SE CE1.502 Structural Engineering Design Studio 3-1-0-4 Shubham Singhal
+Pr SE CE0.501 Theory of Elasticity 3-1-0-4 Pravin Kumar Venkat Rao
+Total 15-5-0-20
+M.Tech II Year I Semester – CASE
+Pr CS CE9.609 IoT Workshop 3-1-0-4 Shruthi K + Sachin Chaudhari
+Pr CE CASE Elective-4 3-1-0-4 Sunitha Palissery
+Pr CE CASE Elective-5 3-1-0-4 Pravin Kumar Venkat Rao
+Pr CE CASE Elective-6 3-1-0-4 Jofin George
+Pr CE CASE Elective-7 3-1-0-4 Shubham Singhal
+Total 12-4-0-14
+M.Tech I Year I Semester – Product Design and Management
+Pr CS CS6.302 Software Systems Development 3-1-0-4 Abhishek Kr Singh
+Pr PD PD1.301 Design Thinking 3-1-0-4 Raman Saxena
+Pr PD PD2.401 Product Management 3-1-0-4 Ramesh Swaminathan
+Pr PD PD2.421 Business Fundamentals 3-1-0-4 Himanshu Warudkar
+Pr PD PD2.404 Market Research and Validation (H1) 3-1-0-2 Ratan K Putla (Guest Faculty)
+Pr PD PD3.401 AI for Product Managers (H2) 3-1-0-2 Aditya T. (Guest Faculty) - Microsoft
+8 of 13
+===== PAGE 9 =====
+Design
+PD1.402 Service Design (H2) 3-1-0-2 Raman Saxena
+Electives
+Total 15/18-5/6-0-22
+M.Tech II Year I Semester – Product Design and Management
+Raman Saxena / Prakash Yalla / Raghu
+Pr PD PD9.401 PDM Project-1 8 Cr
+Reddy
+Pr PD Technology / Systems / Open Elective 3-1-0-4
+Pr PD Technology / Systems / Open Elective 3-1-0-4
+Total 4-1-0-16
+M.Tech I Year I Semester – VLSI and Semiconductor Technologies
+Area Elective* 3-1-0-4
+Area Electives are broadly classified
+Area Elective* 3-1-0-4
+under three categories. Please refer the
+Area Elective* 3-1-0-4
+Academic regulations
+Area Elective* 3-1-0-4
+Total 12-4-0-16
+Electives offered in Monsoon 2026
+CNO CName Credits Faculty name(s)
+Electives for CHD Students
+HS1.304 Environmental Humanities (60) 3-1-0-4 Subha Chakraburtty
+Understanding Public and Digital
+HS3.402 3-1-0-4 Isha Dubey
+History
+HS5.402 Identity and Economic Development 3-1-0-4 Angarika Rakshit
+CS9.425 Social Science Perspective on HCI (50) 3-1-0-4 Nimmi Rangaswamy
+Electives for CND Students
+Introduction to Quantum Field Theory
+SC1.421 3-1-0-4 Subhadip Mitra + Monalisa Patra
+(40)
+SC2.401 Topics in Nanosciences 3-1-0-4 Tapan Kumar Sau
+SC1.415 Physics of Early Universe 3-1-0-4 Diganta Das
+Dynamical Processes in Complex
+SC1.440 3-1-0-4 Chittaranjan Hens
+Networks
+Open Quantum Systems and Quantum
+SC1.410 3-1-0-4 Samyadeb Bhattacharya
+Thermodynamics
+SC4.415 Computer Aided Drug Design 3-1-0-4 Deva Priyakumar
+SC3.302 Bioinformatics-II (H2) 3-1-0-2 Nita Parekh
+SC4.430 Quantum Information Science 3-1-0-4 Siddhartha Das
+Electives for CLD Students
+CS4.406 Information Retrieval & Extraction 3-1-0-4 Anil Nelakanti
+CG1.402 Intro to Cognitive Science 3-1-0-4 Bhaktee Dongaonkar + Bapi Raju S
+CL2.405 Speech Analysis and Linguistics 3-1-0-4 Chiranjeevi Yarra
+Parameshwari Krishnamurthy + Dipti
+CL3.411 NLP for Healthcare 3-1-0-4
+M Sharma
+CL3.410 Language Models and Agents 3-1-0-4 Vasudeva Varma
+Mechanistic Interpretability of
+CL3.412 3-1-0-4 Hrishikesh Terdalkar
+Language Models (H2)
+ECE Electives (Also applicable as CSE/Open Electives)
+Note for UG ECE/ECD Students: Please read carefully the guidelines for choosing of ECE Electives
+before registering.
+Signal Processing & Communications Stream
+9 of 13
+===== PAGE 10 =====
+Information, Computation and
+EC5.415 3-1-0-4 Prasad Krishnan
+Learning
+CS7.404 Digital Image Processing 3-1-0-4 Raghavendra GS
+CS7.403 Statistical Methods in AI 3-1-0-4 Sai Kiran B + Anoop M Namboodiri
+EC5.407 Wireless Communications 3-1-0-4 Rajeev Gangula
+Signal Detection and Estimation
+EC5.406 3-1-0-4 Praful Mankar + Arti Yardi
+Theory
+EC5.413 Quantum Error Correcting Codes 3-1-0-4 Lalitha V
+VLSI and Embedded Systems Stream
+EC2.408 Digital VLSI Design 3-1-0-4 Zia Abbas
+EC2.410 CMOS References and Regulators 3-1-0-4 Zia Abbas + Abhishek P
+CS7.403 Statistical Methods in AI 3-1-0-4 Sai Kiran B + Anoop M Namboodiri
+CS2.501 Advanced Computer Architecture 3-1-0-4 Suresh Purini + Priyesh Shukla
+EC2.409 Principles of Semiconductor Devices 3-1-0-4 Aftab Hussain
+CS2.401 FPGA based Accelerator Design 3-1-0-4 Suresh Purini
+Advanced Memory Circuits and
+EC2.414 3-1-0-4 Priyesh Shukla
+Systems
+Optoelectronics & Integrated
+EC2.415 3-1-0-4 Tanmay Bhowmik
+Photonics
+Micro & Nano Fabrication Technology
+EC2.416 3-1-0-4 HCU-Faculty
+for Ics
+Robotics Stream
+CS7.503 Mobile Robotics 3-1-0-4 K Madhava Krishna
+CS7.404 Digital Image Processing 3-1-0-4 Raghavendra GS
+EC4.401 Robotics: Dynamics and Control 3-1-0-4 Antony Thomas
+CS7.403 Statistical Methods in AI 3-1-0-4 Sai Kiran B + Anoop M Namboodiri
+EC4.402 Introduction to UAV Design 3-1-0-4 Harikumar K
+Electives for PG CASE students
+GS2.401 Spatial Informatics 3-1-0-4 RC Prasad + Kuldeep Kurte
+Earthquake Resistant Design of
+CE1.607 3-1-0-4 P Pravin Kumar Venkat Rao
+Masonry Structures
+CE1.610 Advanced Design of Steel Structures 3-1-0-4 Sunitha Palissery
+CS9.428 Environmental Science & Technology 3-1-0-4 R C Prasad
+CE1.625 Structural Safety of Built Infrastructure 3-1-0-4 Jofin George
+CE1.621 Retrofitting of Existing Structures 3-1-0-4 Shubham Singhal
+Electives for 2nd year M.Tech PDM students
+Design
+PD1.402 Service Design (H2) 3-1-0-2 Raman Saxena
+Electives
+PD2.405 System Thinking and Design (H1) 3-1-0-2 Raman Saxena
+Business PD2.501 Product Marketing 3-1-0-4 Ravi Warrier
+Electives
+PD2.402 Early Stage Funding for a Startup(H2) 3-1-0-2 Sridhar Kalyanasundaram
+Tech
+PD3.401 AI for Product Managers (H2) 3-1-0-2 Aditya T. (Guest Faculty) - Microsoft
+Electives
+List will be provided by the Prog.
+Open NPTEL/SWAYAM 3-1-0-4
+Coordinator
+Area Electives for M.Tech VLSI students
+CS2.501 Advanced Computer Architecture 3-1-0-4 Suresh Purini + Priyesh Shukla
+EC2.409 Principles of Semiconductor Devices 3-1-0-4 Aftab Hussain
+EC2.410 CMOS References and Regulators 3-1-0-4 Zia Abbas + Abhishek P
+10 of 13
+===== PAGE 11 =====
+EC2.408 Digital VLSI Design 3-1-0-4 Zia Abbas
+Micro & Nano Fabrication Technology
+EC2.416 3-1-0-4 HCU-Faculty
+for Ics
+Bouquet Courses - Registration Limit: 150
+Theory
+CS1.405 Modern Complexity Theory (100) 3-1-0-4 Suryajith Ch
+Principles of Programming Languages
+CS1.402 3-1-0-4 Venkatesh Choppella
+(100)
+Systems
+CS3.401 Distributed Systems (100) 3-1-0-4 Kishore Kothapalli
+CS3.402 Advanced Computer Networks (150) 3-1-0-4 Ashok Kumar Das
+Artificial Intelligence
+CS7.403 Statistical Methods in AI (200) 3-1-0-4 Sai Kiran B + Anoop M Namboodiri
+Information Retrieval & Extraction
+CS4.406 3-1-0-4 Anil Nelakanti
+(100)
+CS7.501 Advanced NLP (100) 3-1-0-4 Manish Shrivastava
+CS4.405 Data Analytics I (100) 3-1-0-4 Krishna Reddy Polepalli
+IT + X
+CG1.402 Intro to Cognitive Science (50) 3-1-0-4 Bhaktee Dongaonkar + Bapi Raju S
+GS2.401 Spatial Informatics (50) 3-1-0-4 RC Prasad + Kuldeep Kurte
+CSE/Open Electives
+CS8.501 Research in Information Security 3-0-1-4 Srinathan Kannan + Ashok Kumar Das
+Introduction to Neural and Cognitive
+CG3.401 3-1-0-4 Bapiraju Surampudi
+Modeling
+Behavioral Research & Experimental
+CG3.402 3-1-0-4 Vinoo Alluri
+Design (50)
+CS6.501 Topics in Software Engineering 3-1-0-4 Raghu Reddy Y
+CS1.408 Introduction to Game Theory 3-1-0-4 Sujit Gujar
+CS9.429 Design for Social Innovation 3-1-0-4 Ramesh Loganathan + Arjun Rajashekar
+CL2.405 Speech Analysis and Linguistics 3-1-0-4 Chiranjeevi Yarra
+CG9.600 Cognitive Science Seminar 0 Cr Priyanka Srivastava + Bapi Raju
+Foundations for Signal Processing and
+EC5.412 Communication (Open for MS&PhD 3-1-0-4 Santosh Nannuru + Gowtham Kurri
+students)
+CS9.428 Environmental Science & Technology 3-1-0-4 R C Prasad
+CG4.402 Introduction to Neuroeconomics 3-1-0-4 Kavita Vemuri
+GS1.501 Advanced Remote Sensing 3-1-0-4 RC Prasad + Kiran Chand T
+Cyber GIS: Geospatial Web and GeoBI
+GS2.402 3-1-0-4 K S Rajan +Kuldeep Kurte
+(Max:15)
+CL3.410 Language Models and Agents 3-1-0-4 Vasudeva Varma
+Parameshwari Krishnamurthy + Dipti
+CL3.411 NLP for Healthcare 3-1-0-4
+M Sharma
+Earth System Science and Modelling
+GS3.603 3-1-0-4 Kiran Chand T
+GIS Stream / Open Elective
+CS2.401 FPGA based Accelerator Design 3-1-0-4 Suresh Purini
+Autonomous Software Engineering
+CS6.403 3-1-0-2 Karthik Vaidhyanathan
+(H2)
+11 of 13
+===== PAGE 12 =====
+Information, Computation and
+EC5.415 3-1-0-4 Prasad Krishnan
+Learning
+CS7.510 Diffusion Models for Generative AI 3-1-0-4 Naresh Manwani + Sai Kiran Bulusu
+CS9.442 Topics in AI for Healthcare 3-1-0-4 Vinod PK + Bapi Raju S + Raja Poladi
+CS3.406 Programming AI Accelerators 3-1-0-4 Girish Varma + P J Narayanan
+Mechanistic Interpretability of
+CL3.412 3-1-0-4 Hrishikesh Terdalkar
+Language Models (H2)
+Advanced Memory Circuits and
+EC2.414 3-1-0-4 Priyesh Shukla
+Systems
+Optoelectronics & Integrated
+EC2.415 3-1-0-4 Tanmay Bhowmik
+Photonics
+Micro & Nano Fabrication Technology
+EC2.416 3-1-0-4 HCU-Faculty
+for Ics
+CS5.501 Scientific Visualisation 3-1-0-4 Raghavendra GS
+Open Electives Only for UG Students
+CG1.403 Learning and Memory (Max 70) 3-1-0-4 Bhaktee Dongaonkar
+Algorithms and Operating Systems
+CS3.306 (Open Elective) Only for UG ECE/D 3-1-0-4 Vikram Pudi
+students
+PD2.501 Product Marketing 3-1-0-4 Ravi Warrier
+CS9.425 Social Science Perspective on HCI (50) 3-1-0-4 Nimmi Rangaswamy
+PD1.402 Service Design (H2) (50) 3-1-0-2 Raman Saxena
+PD2.405 System Thinking and Design (H1) (50) 3-1-0-2 Raman Saxena
+PD2.501 Product Marketing (50) 3-1-0-4 Ravi Warrier
+Early Stage Funding for a Startup(H2)
+PD2.402 3-1-0-2 Sridhar Kalyanasundaram
+(50)
+PD3.401 AI for Product Managers (H2) (50) 3-1-0-2 Aditya T. (Guest Faculty) - Microsoft
+PD1.301 Design Thinking (50) 3-1-0-4 Raman Saxena
+PD2.401 Product Management (50) 3-1-0-4 Ramesh Swaminathan
+PD2.421 Business Fundamentals (50) 3-1-0-4 Himanshu Warudkar
+PD2.404 Market Research and Validation (H1) (50) 3-1-0-2 Ratan K Putla (Guest Faculty)
+Math Electives (Random selection) Maximum no. of students for the following courses is: 50 each)
+MA4.406 Complex Analysis 3-1-0-4 Lakshmi Burra
+MA6.501 Advanced Probability Theory 3-1-0-4 Khushboo Agarwal
+Science Electives (Random selection) Max. no of students for each course is given in the brackets
+Biomolecular Structure Interaction &
+SC3.321 Dynamics (35) 3-1-0-4 B.Gopalakrishnan
+Prerequisites: ABA, GSC or equivalent
+Introduction to Quantum Field Theory
+SC1.421 3-1-0-4 Subhadip Mitra + Monalisa Patra
+(40)
+SC2.401 Topics in Nanosciences (60) 3-1-0-4 Tapan Kumar Sau
+SC2.309 Chemistry Topics for Engineers (120) 3-1-0-4 Prabhakar B + Tapan Kumar Sau
+Dynamical Process in Complex
+SC1.440 3-1-0-4 Chittaranjan Hens
+Networks (40)
+SC1.415 Physics of Early Universe (50) 3-1-0-4 Diganta Das
+SC4.415 Computer Aided Drug Design 3-1-0-4 Deva Priyakumar
+Open Quantum Systems and Quantum
+SC1.410 3-1-0-4 Samyadeb Bhattacharya
+Thermodynamics (40)
+12 of 13
+===== PAGE 13 =====
+SC4.430 Quantum Information Science 3-1-0-4 Siddhartha Das
+Humanities Electives for UG3 &UG4 (Random selection) Max. no of students for each course is 40
+(Tentative list)
+HS5.202 Introduction to Economics 3-1-0-4 Anirban Dasgupta
+HS1.210 Music Workshop (35) 3-1-0-4 Saroja TK
+HS3.201 Introduction to History 3-1-0-4 Aniket Alam
+HS2.201 Introduction to Sociology 3-1-0-4 Rajorshi Ray
+HS8.201 Gender and Society 3-1-0-4 Sushmita Banerji
+HS1.304 Environmental Humanities (60) 3-1-0-4 Subha Chakraburtty
+CG1.401 Introduction to Psychology 3-1-0-4 Priyanka Srivastava
+Understanding Public and Digital
+HS3.402 3-1-0-4 Isha Dubey
+History
+HS5.402 Identity and Economic Development 3-1-0-4 Angarika Rakshit
+CS9.425 Social Science Perspective on HCI (50) 3-1-0-4 Nimmi Rangaswamy
+HS1.401 Readings from Hindi Literature 3-1-0-4 Harjinder Singh
+Sd/-
+Date: 02-June-2026 Dean (Academics)
+13 of 13

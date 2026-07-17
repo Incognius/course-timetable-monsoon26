@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Local-only editor/tooling config and notes — not for the public repo
+.claude/
+CLAUDE.md

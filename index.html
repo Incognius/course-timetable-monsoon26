@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Courses — Monsoon 2026</title>
+<script>(function(){var t=localStorage.getItem("m26-theme");if(t)document.documentElement.setAttribute("data-theme",t);})();</script>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site">
+  <h1>IIIT-H Monsoon 2026</h1>
+  <span class="meta" id="meta-line"></span>
+  <nav class="tabs">
+    <a href="index.html" class="active">Courses</a>
+    <a href="timetable.html">Timetable</a>
+  </nav>
+  <button class="theme-btn" id="theme-toggle" type="button">Dark mode</button>
+</header>
+
+<div class="filters">
+  <input type="search" id="f-search" placeholder="Search code, name, faculty" autocomplete="off">
+  <select id="f-category"><option value="">All categories</option></select>
+  <select id="f-area"><option value="">All areas</option></select>
+  <select id="f-credits"><option value="">Any credits</option></select>
+  <select id="f-half">
+    <option value="">Full &amp; half sem</option>
+    <option value="full">Full semester</option>
+    <option value="H1">H1 (first half)</option>
+    <option value="H2">H2 (second half)</option>
+  </select>
+  <button class="clear" id="f-clear">Clear</button>
+  <span class="count" id="f-count"></span>
+</div>
+
+<main class="grid-tiles" id="tiles"></main>
+
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal" id="modal" role="dialog" aria-modal="true"></div>
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/syllabi.js"></script>
+<script src="js/common.js"></script>
+<script src="js/dashboard.js"></script>
+</body>
+</html>
