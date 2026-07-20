@@ -138,7 +138,14 @@ const ALIAS = {
 // Cells in the official grid that contradict the rest of the document; each
 // needs a reason. Checked so silent typos in future versions still surface.
 const KNOWN_ANOMALIES = new Set([
-  "Thu1|computer aided drug design" // CADD is a p2 course (Mon2/Thu2); Thu p1 listing is a doc duplication
+  "Thu1|computer aided drug design", // CADD is a p2 course (Mon2/Thu2); Thu p1 listing is a doc duplication
+  // Advanced NLP and Intro to Neural & Cognitive Modelling: doc lists both at
+  // Tue2/Fri2, but per academic office correction Advanced NLP actually runs
+  // Mon3/Thu3 and INCM runs Tue6/Fri6.
+  "Tue2|advanced nlp",
+  "Fri2|advanced nlp",
+  "Tue2|introduction to neural and cognitive modeling",
+  "Fri2|introduction to neural and cognitive modeling"
 ]);
 // Which grid columns are periods: page rows have 7-8 cells; map by position of
 // the lunch cell. Periods 1,2,3 before lunch; 4,5,6 after.

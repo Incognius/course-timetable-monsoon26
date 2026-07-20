@@ -200,7 +200,7 @@
   def("CS4.406", "Information Retrieval & Extraction", "3-1-0-4", "Anil Nelakanti",
       { cap: 100, cat: ["bouquet-ai", "cld"], meet: "Mon5 Thu5" });
   def("CS7.501", "Advanced NLP", "3-1-0-4", "Manish Shrivastava",
-      { cap: 100, cat: ["bouquet-ai"], meet: "Tue2 Fri2", note: "Core for UG3 CLD." });
+      { cap: 100, cat: ["bouquet-ai"], meet: "Mon3 Thu3", note: "Core for UG3 CLD." });
   def("CS4.405", "Data Analytics I", "3-1-0-4", "Krishna Reddy Polepalli",
       { cap: 100, cat: ["bouquet-ai"], meet: "Mon1 Thu1" });
   def("CG1.402", "Intro to Cognitive Science", "3-1-0-4", "Bhaktee Dongaonkar + Bapi Raju S",
@@ -249,7 +249,7 @@
   def("CS8.501", "Research in Information Security", "3-1-0-4", "Srinathan Kannan + Ashok Kumar Das",
       { cat: ["cse-open"], meet: "Tue4 Fri4", note: "Core for M.Tech II yr CSIS." });
   def("CG3.401", "Introduction to Neural and Cognitive Modeling", "3-1-0-4", "Bapiraju Surampudi",
-      { cat: ["cse-open"], meet: "Tue2 Fri2" });
+      { cat: ["cse-open"], meet: "Tue6 Fri6" });
   def("CG3.402", "Behavioral Research & Experimental Design", "3-1-0-4", "Vinoo Alluri",
       { cap: 50, cat: ["cse-open"], meet: "Tue2 Fri2" });
   def("CS6.501", "Topics in Software Engineering", "3-1-0-4", "Raghu Reddy Y",
@@ -287,7 +287,7 @@
       { cat: ["cse-open"], meet: "Mon4 Thu4" });
   def("CS3.406", "Programming AI Accelerators", "3-1-0-4", "Girish Varma + P J Narayanan",
       { cat: ["cse-open"], meet: "Mon4 Thu4" });
-  def("CL3.412", "Mechanistic Interpretability of Language Models (H2)", "3-1-0-4", "Hrishikesh Terdalkar",
+  def("CL3.412", "Mechanistic Interpretability of Language Models (H2)", "3-1-0-2", "Hrishikesh Terdalkar",
       { half: "H2", cat: ["cse-open", "cld"], meet: "Tue6 Fri6" });
   def("CS5.501", "Scientific Visualisation", "3-1-0-4", "Raghavendra GS",
       { cat: ["cse-open"], meet: "Mon4 Thu4" });
